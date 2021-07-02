@@ -1,8 +1,7 @@
-
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="Animegirl.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Animegirl" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Animegirl" src="https://img.shields.io/badge/Animegirl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/tkmbarroz"><img title="Author" src="https://img.shields.io/badge/Author-tkmbarroz/Animegirl?color=red&style=for-the-badge&logo=whatsapp"></a>
@@ -19,13 +18,13 @@ Project created by <a href="https://github.com/tkmbarroz">tkmbarroz</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
-    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/barroz-brz/Animegirl">
+    <img src="https://img.shields.io/github/repo-size/tkmbarroz/Animegirl?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/tkmbarroz/followers"><img title="Followers" src="https://img.shields.io/github/followers/tkmbarroz?color=blue&style=flat-square"></a>
+<a href="https://github.com/tkmbarroz/Animegirl/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/tkmbarroz/Animegirl?color=blue&style=flat-square"></a>
+<a href="https://github.com/tkmbarroz/Animegirl/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Animegirl/?color=blue&style=flat-square"></a>
+<a href="https://github.com/tkmbarroz/Animegirl/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/tkmbarroz/Animegirl?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +35,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmbarroz&repo=PublicBot&theme=nightowl)](https://github.com/tkmbarroz/PublicBot)
   </div>
     
 ## Setup
@@ -46,7 +45,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tkmbarroz/Animegirl)
      </div>
 <br>
 <br >
@@ -61,8 +60,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/tkmbarroz/Animegirl
+$ cd Animegirl
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +70,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/tkmbarroz/Animegirl
+$ cd Animegirl
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -92,9 +91,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![tkmbarroz](https://github.com/Animegirl.jpg?size=100)](https://github.com/tkmbarroz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[tkmbarroz](https://github.com/tkmbarroz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
